@@ -72,8 +72,8 @@ if __name__ == '__main__':
 Run the training command:
 ![Training Process](https://github.com/mrshafayet/sfyolo/blob/main/train_model.png)
 ## Models and Performance
- [Pre-Trained weight of our Lightweight Model](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_n%2073.4/weights/best.pt)
- [Pre-Trained weight of our Best Model](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_x%2081.8/weights/best.pt)
+- [Pre-Trained weight of our Lightweight Model](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_n%2073.4/weights/best.pt) - 150 epoch
+- [Pre-Trained weight of our Best Model](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_x%2081.8/weights/best.pt) - 150 epoch
  
 | **Model** | **Parameters (M)** | **GFLOPs** | **mAP@50 (%)** | **Weights** |
 |-----------|---------------------|------------|----------------|-------------|
