@@ -72,14 +72,16 @@ if __name__ == '__main__':
 Run the training command:
 ![Training Process](https://github.com/mrshafayet/sfyolo/blob/main/train_model.png)
 ## Models and Performance
-
+ [Pre-Trained weight of our Lightweight Model](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_n%2073.4/weights/best.pt)
+ [Pre-Trained weight of our Best Model](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_x%2081.8/weights/best.pt)
+ 
 | **Model** | **Parameters (M)** | **GFLOPs** | **mAP@50 (%)** | **Weights** |
 |-----------|---------------------|------------|----------------|-------------|
-| **xy_n**  | 2.25               | 8.7        | 73.4           | [Download](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_n%2073.4/weights/best.pt) |
+| **xy_n(Lightweight)**  | 2.25               | 8.7        | 73.4           | [Download](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_n%2073.4/weights/best.pt) |
 | **xy_s**  | 8.08               | 29.8       | 79.2           |  |
 | **xy_m**  | 20.37              | 103.0      | 82.1           | [Download](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_m%2081.4/weights/best.pt) |
 | **xy_l**  | 23.65              | 124.5      | 81.6           | [Download](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_l%20%2081/weights/best.pt) |
-| **xy_x**  | 53.13              | 278.9      | 82.0           | [Download](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_x%2081.8/weights/best.pt) |
+| **xy_x(Best)**  | 53.13              | 278.9      | 82.0           | [Download](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_x%2081.8/weights/best.pt) |
 
 ## mAP Graph of the Models
 
