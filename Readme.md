@@ -35,10 +35,15 @@ Place the dataset files in the `datasets/` directory and ensure the paths in the
 
 ## Usage
 
+## Model Configuration
 
+### 1SF_yolov1.yaml
+The `1SF_yolov1.yaml` file defines the architecture and settings for the `SF-YOLO`  model.
 
+#### Direct File Access
+Access the file here: [1SF_yolov1.yaml](https://github.com/mrshafayet/sfyolo/blob/main/ultralytics/cfg/models/xy_YOLO/1SF_yolov1.yaml).
 
-
+![Training Process](https://github.com/mrshafayet/sfyolo/blob/main/train_model.png)
 ## Models and Performance
 
 | **Model** | **Parameters (M)** | **GFLOPs** | **mAP@50 (%)** | **Weights** |
