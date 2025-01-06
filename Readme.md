@@ -128,7 +128,7 @@ If you use this toolbox or benchmark in your research, please cite this project.
     publisher = {IEEE},
     note      = {Available at [insert link or DOI if applicable]}
 }
-
+```
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
