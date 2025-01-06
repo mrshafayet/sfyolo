@@ -111,6 +111,23 @@ Below are the predictions from different versions of the models evaluated in thi
   [Validation Batch Predictions](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_x%2081.8/val_batch2_pred.jpg)  
   ![xy_x Predictions](https://github.com/mrshafayet/sfyolo/blob/main/run/train/xy_x%2081.8/val_batch2_pred.jpg)
 
+## Citation
+
+If you use this toolbox or benchmark in your research, please cite this project.
+
+```bibtex
+
+@InProceedings{
+    author    = {Tajrian ABM Shafayet and Hiba Maryam},
+    title     = {SFYOLO},
+    booktitle = {2025 IEEE XX International Conference on XX},
+    month     = {January},
+    year      = {2025},
+    organization = {Huazhong University of Science and Technology},
+    address   = {Wuhan, China},
+    publisher = {IEEE},
+    note      = {Available at [insert link or DOI if applicable]}
+}
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
