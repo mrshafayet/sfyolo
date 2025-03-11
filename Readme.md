@@ -120,7 +120,7 @@ If you use this toolbox or benchmark in your research, please cite this project.
 @InProceedings{
     author    = {Tajrian ABM Shafayet and Hiba Maryam},
     title     = {SFYOLO},
-    booktitle = {2025 IEEE XX International Conference on XX},
+    booktitle = {The 7th International Conference on Control and Computer Vision (ICCCV 2025), Wuhan, China},
     month     = {January},
     year      = {2025},
     organization = {Huazhong University of Science and Technology},
