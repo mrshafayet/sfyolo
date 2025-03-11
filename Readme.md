@@ -118,10 +118,10 @@ If you use this toolbox or benchmark in your research, please cite this project.
 ```bibtex
 
 @InProceedings{
-    author    = {Tajrian ABM Shafayet and Hiba Maryam},
-    title     = {SFYOLO},
+    author    = {Tajrian ABM Shafayet},
+    title     = {SFYOLSF-YOLO:A Lightweight and Precise Approach for Small Object Detection in Aerial ImagesO},
     booktitle = {The 7th International Conference on Control and Computer Vision (ICCCV 2025), Wuhan, China},
-    month     = {January},
+    month     = {March},
     year      = {2025},
     organization = {Huazhong University of Science and Technology},
     address   = {Wuhan, China},
